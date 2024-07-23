@@ -5,7 +5,7 @@
 
 <br clear="both">
 
-<img align="left" height="350" src="https://i.imgflip.com/8xy8t1.jpg"  />
+<img align="left" height="400" src="https://i.imgflip.com/8xy8t1.jpg"  />
 
 ###
 
