@@ -1,65 +1,121 @@
-# ¡Bienvenidos a mi rincón de código! 🎉
+# Kennedy Saúl Pino Dextre 👋
+<a id="top"></a>
 
+**Full Stack Engineer (backend-leaning)** · Java / Spring Boot (WebFlux) · Angular · Microservices · Kafka · Redis · PostgreSQL  
+📍 Perú (Remoto) · ✉️ systems.kennedy@gmail.com · 💼 LinkedIn · 🧠 GitHub
+
+**Idioma:** [Español](#es) · [English](#en)
+
+---
+
+<a id="es"></a>
+## Español
+
+### Sobre mí
+Soy **Full Stack Engineer** orientado a backend, con foco en **Java + Spring Boot (WebFlux)** y experiencia sólida en **Angular**. Me gusta construir sistemas mantenibles, con **buen diseño**, **performance** y **calidad** (Clean Code, SOLID, arquitectura hexagonal).
+
+En mi día a día he trabajado en:
+- Desarrollo **end-to-end** de funcionalidades (backend + frontend)
+- **Refactorización** de servicios y mejoras de performance
+- Integración con **microservicios**, mensajería (**Kafka**) y cache (**Redis**)
+- **Testing unitario** (JUnit5/Mockito) y mejora continua (SonarQube; exposición a Jenkins)
+- Observabilidad a nivel de consumo (Prometheus/Grafana)
+
+Además, también exploro el mundo de **datos** con Python: análisis, visualización y bases de ML (proyectos y aprendizaje continuo).
+
+---
+
+### Tech Stack (resumen)
+**Backend:** Java, Spring Boot, WebFlux, REST, OAuth2/JWT, Microservices, Kafka, Redis  
+**Frontend:** Angular, TypeScript (React/Next/Vite: experiencia)  
+**Data:** Python, SQL, análisis y visualización (bases de ML)  
+**DB:** PostgreSQL, MySQL, SQL Server, MongoDB  
+**Tooling:** Git/GitHub, Docker, SonarQube, Jenkins (exposición), Notion
+
+---
+
+### Tecnologías & Herramientas (iconos)
 <div align="center">
-  <img src="https://i.imgflip.com/8xy8t1.jpg" height="250" style="max-width: 100%; height: auto;" alt="Imagen de bienvenida" />
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg" height="40" alt="kafka" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" />
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="vite" />
+  <!-- Data -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn" />
+  <!-- DB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  <!-- Tooling -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
 </div>
 
 ---
 
-<p align="justify">Soy un estudiante de Ingeniería de Sistemas Computacionales apasionado por la tecnología desde pequeño. Aunque no tengo un área específica de interés, he explorado diversos roles en proyectos universitarios y estoy comenzando mis prácticas profesionales.</p>
-
-<p align="justify">Actualmente, participo en la beca "Generación Digital", donde estudio "Desarrollo Web Fullstack", así como en "Grupo 7 ONE - Oracle Next Education" y el programa de IBM Fundamentos de Data Analytics. Además, estoy cursando mi carrera de Ingeniería en Sistemas Computacionales. Manejo con mayor habilidad lenguajes como C++, Java y Python.</p>
-
-<p align="justify">En mi tiempo libre, disfruto jugando ajedrez y aprendiendo sobre tecnología y física. Me gusta resolver problemas y estoy siempre buscando nuevos desafíos. Mi objetivo a largo plazo es adquirir conocimiento y ser bueno en lo que hago.</p>
-
-<p align="justify">He participado en competiciones Capture the Flag y me encantaría contribuir a proyectos de código abierto en el futuro. En mi experiencia, he creado desde scripts de bash hasta operaciones explotando datos. Enfrento los desafíos definiendo pequeñas metas y aprendiendo lo que no sé con empeño y dedicación.</p>
-
----
-
-### Tecnologías y Herramientas
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
-</div>
+### Proyectos destacados
+- **Gear-Vitalia (microservicios reactivos):** gateway + servicios, WebFlux, Kafka, Redis, PostgreSQL, Docker.
+- **Proyectos de datos (Python):** notebooks y scripts de análisis/visualización (en progreso).
 
 ---
 
 ### Contacto
+- LinkedIn: https://www.linkedin.com/in/kennedypinodextre/
+- Email: systems.kennedy@gmail.com
 
-<div align="center">
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://discord.com/users/kennedy_systm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord logo" />
-  </a>
-  <a href="mailto:systems.kennedy@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo" />
-  </a>
-  <a href="mailto:n00124680@upn.pe">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="40" height="40" alt="microsoft-outlook logo" />
-  </a>
-  <a href="https://wa.me/51902985139" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="40" alt="whatsapp logo" />
-  </a>
-</div>
+<p align="right"><a href="#top">⬆️ Volver arriba</a></p>
 
 ---
 
-<p align="center">✨ Me falta subir más proyectos. ¡Pronto habrá más! ✨</p>
+<a id="en"></a>
+## English
+
+### About me
+I’m a **backend-leaning Full Stack Engineer** focused on **Java + Spring Boot (WebFlux)**, with strong experience building web apps with **Angular**. I care about clean architecture, maintainability, performance, and code quality (Clean Code, SOLID, hexagonal architecture).
+
+I’ve worked on:
+- End-to-end feature delivery (backend + frontend)
+- Service refactoring and performance improvements
+- Microservices, messaging (**Kafka**), and caching (**Redis**)
+- Unit testing (JUnit5/Mockito) and continuous quality (SonarQube; exposure to Jenkins)
+- Observability from a consumer perspective (Prometheus/Grafana)
+
+I also explore **data work with Python** (analytics, visualization, and ML foundations) through personal projects and continuous learning.
+
+---
+
+### Tech Stack (quick)
+**Backend:** Java, Spring Boot, WebFlux, REST, OAuth2/JWT, Microservices, Kafka, Redis  
+**Frontend:** Angular, TypeScript (React/Next/Vite: experience)  
+**Data:** Python, SQL, analytics & visualization (ML foundations)  
+**DB:** PostgreSQL, MySQL, SQL Server, MongoDB  
+**Tooling:** Git/GitHub, Docker, SonarQube, Jenkins (exposure), Notion
+
+---
+
+### Featured work
+- **Gear-Vitalia (reactive microservices):** gateway + services, WebFlux, Kafka, Redis, PostgreSQL, Docker.
+- **Python data projects:** notebooks and analytics utilities (WIP).
+
+---
+
+### Contact
+- LinkedIn: https://www.linkedin.com/in/kennedypinodextre/
+- Email: systems.kennedy@gmail.com
+
+<p align="right"><a href="#top">⬆️ Back to top</a></p>
