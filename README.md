@@ -1,10 +1,9 @@
-cat > README.md <<'EOF'
 <a id="top"></a>
 
 # Kennedy Saul Pino Dextre
 
-**Systems Engineering Student · Full Stack Developer · End-to-End Software Builder**  
-**Web · Backend · Mobile · Desktop · Automation · Data · AI · Business Systems**
+**Systems Engineering · Full Stack Developer · End-to-End Software Builder**  
+**Web · Backend · Mobile · Desktop · Automation · Data · AI · Cloud · Business Systems**
 
 📍 Lima, Perú · Remote-ready / Disponible remoto  
 🔗 [LinkedIn](https://www.linkedin.com/in/kennedypinodextre/) · ✉️ systems.kennedy@gmail.com
@@ -22,11 +21,11 @@ cat > README.md <<'EOF'
 
 ## About me
 
-I am a **Systems Engineering student in the 10th cycle** and a **Full Stack Developer** focused on building complete software solutions from idea to delivery.
+My profile combines **Systems Engineering** and **Full Stack Development**, with a strong focus on building complete software solutions from idea to delivery.
 
 I work across the full development cycle: understanding business needs, analyzing requirements, reviewing interfaces, validating databases, designing flows, implementing frontend and backend, integrating APIs, testing, refactoring, optimizing queries, building reports and delivering working systems.
 
-My main focus is **end-to-end software engineering**: web platforms, backend services, business systems, dashboards, reporting modules, administrative tools, mobile apps, desktop utilities, automation scripts, data-driven workflows, AI-assisted applications and experimental systems.
+My main focus is **end-to-end software engineering**: web platforms, backend services, business systems, dashboards, reporting modules, administrative tools, mobile apps, desktop utilities, automation scripts, data-driven workflows, AI-assisted applications, cloud-aware solutions and experimental systems.
 
 Beyond a specific stack, I see myself as a **software builder**: someone who can understand a problem, model it, design a solution, implement it, improve it and learn whatever is necessary to make it work.
 
@@ -45,8 +44,9 @@ I am self-taught, disciplined and constantly learning. I have earned scholarship
 - Android applications and mobile workflows connected to backend services.
 - Desktop applications, internal tools, diagnostics utilities and executable software.
 - Python automation tools, OCR utilities, scripts, API integrations and database-connected tools.
+- Cloud-oriented projects and deployment workflows using AWS, Azure, Google Cloud Platform, Docker, Heroku and CI/CD foundations.
 - Academic and experimental systems involving AI, data, cloud, optimization and simulation.
-- Video games, interactive software and visual/graphics-based projects as part of my systems engineering background.
+- Video games, interactive software and visual/graphics-based projects as part of my Systems Engineering background.
 - Tools that reduce manual work, organize information and improve real business processes.
 
 ---
@@ -61,7 +61,7 @@ My approach is to understand the business flow first, then translate it into mai
 
 ### Systems Engineering mindset
 
-My background goes beyond web development. I have studied and practiced software engineering, databases, algorithms, data structures, operating systems, computer networks, computer architecture, software architecture, software quality, project management, data analysis, optimization, simulation, machine learning, computer graphics, mobile development and game development.
+My background goes beyond web development. I have studied and practiced software engineering, databases, algorithms, data structures, operating systems, computer networks, computer architecture, software architecture, software quality, project management, data analysis, optimization, simulation, machine learning, computer graphics, mobile development, cloud computing and game development.
 
 This helps me approach problems as complete systems, not only as isolated screens, endpoints or technologies.
 
@@ -74,6 +74,10 @@ These systems support business users who need structured information, validation
 ### Automation and internal tools
 
 I use Python and other tools to automate repetitive work, connect with APIs and databases, process files, validate data, build desktop utilities, run diagnostics, generate logs and package executable tools.
+
+### Cloud and deployment foundations
+
+I have foundations in cloud computing across **AWS, Azure and Google Cloud Platform**, with practical interest in deployments, infrastructure concepts, containers, CI/CD, observability and scalable software delivery.
 
 ### Continuous learning
 
@@ -92,6 +96,7 @@ My Systems Engineering background includes:
 - Operating systems, computer architecture and computer networks.
 - Human-computer interaction, visual computing and UI/UX foundations.
 - Mobile development, distributed systems and web applications.
+- Cloud computing foundations with AWS, Azure and Google Cloud Platform.
 - Optimization, simulation and decision-support thinking.
 - Machine learning, data analytics and AI-assisted systems.
 - Security, project management, entrepreneurship and research.
@@ -110,9 +115,11 @@ My Systems Engineering background includes:
 
 **Databases:** PostgreSQL, MySQL, SQL Server, MongoDB, SQLite, SQL, NoSQL, data modeling, query optimization, reporting and operational analysis.
 
+**Cloud & DevOps:** AWS, Azure, Google Cloud Platform, Docker, Docker Compose, Heroku, GitHub Actions, CI/CD, deployment workflows and cloud fundamentals.
+
 **Python & Automation:** Python, OCR, CustomTkinter, Requests, PyInstaller, scripts, process automation, diagnostics and internal tools.
 
-**Tools & Quality:** Git, GitHub, GitLab, Docker, Docker Compose, Postman, Sonar, Grafana, GitHub Actions, CI/CD, Heroku, Ruff, Mypy.
+**Tools & Quality:** Git, GitHub, GitLab, Postman, Sonar, Grafana, Ruff, Mypy.
 
 ---
 
@@ -138,6 +145,9 @@ My Systems Engineering background includes:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="38" alt="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="38" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="38" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="38" alt="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="GitHub" />
@@ -157,7 +167,7 @@ My Systems Engineering background includes:
 - Built full stack platforms with backend APIs, web admin panels, databases, authentication, file uploads, email notifications, reporting and mobile clients.
 - Refactored frontend and backend modules to reduce duplication, improve maintainability and meet code quality standards.
 - Solved critical incidents and urgent requirements across frontend and backend modules.
-- Designed and implemented software across web, backend, desktop, mobile, automation and academic/experimental projects.
+- Designed and implemented software across web, backend, desktop, mobile, automation, cloud foundations and academic/experimental projects.
 
 ---
 
@@ -176,6 +186,7 @@ I am currently organizing public repositories, demos and case studies to better 
 - Reporting, advanced SQL and query optimization.
 - Process automation with Python.
 - Testing, code quality and observability.
+- Cloud foundations with AWS, Azure and Google Cloud Platform.
 - Data-oriented, AI-assisted and business-focused software solutions.
 - Software design, architecture and Systems Engineering foundations.
 
@@ -196,11 +207,11 @@ I am currently organizing public repositories, demos and case studies to better 
 
 ## Sobre mí
 
-Soy **estudiante de Ingeniería de Sistemas en 10.º ciclo** y **Full Stack Developer** enfocado en construir soluciones de software completas desde la idea hasta la entrega.
+Mi perfil combina **Ingeniería de Sistemas** y **desarrollo full stack**, con enfoque en construir soluciones de software completas desde la idea hasta la entrega.
 
 Trabajo en todo el ciclo de desarrollo: entendimiento del negocio, análisis de requerimientos, revisión de interfaces, validación de base de datos, diseño de flujos, implementación frontend y backend, integración de APIs, pruebas, refactorización, optimización de consultas, reporting y entrega de sistemas funcionales.
 
-Mi foco principal está en la **ingeniería de software end-to-end**: plataformas web, servicios backend, sistemas empresariales, dashboards, módulos de reporting, herramientas administrativas, aplicaciones móviles, utilidades desktop, scripts de automatización, flujos basados en datos, aplicaciones asistidas por IA y sistemas experimentales.
+Mi foco principal está en la **ingeniería de software end-to-end**: plataformas web, servicios backend, sistemas empresariales, dashboards, módulos de reporting, herramientas administrativas, aplicaciones móviles, utilidades desktop, scripts de automatización, flujos basados en datos, aplicaciones asistidas por IA, soluciones con fundamentos cloud y sistemas experimentales.
 
 Más allá de un stack específico, me considero un **constructor de software**: alguien que puede entender un problema, modelarlo, diseñar una solución, implementarla, mejorarla y aprender lo necesario para hacerla funcionar.
 
@@ -219,6 +230,7 @@ Soy autodidacta, disciplinado y estoy en constante aprendizaje. He ganado becas 
 - Aplicaciones Android y flujos móviles conectados a servicios backend.
 - Aplicaciones desktop, herramientas internas, utilidades de diagnóstico y software ejecutable.
 - Herramientas de automatización con Python, OCR, scripts, integraciones con APIs y bases de datos.
+- Proyectos con fundamentos cloud usando AWS, Azure, Google Cloud Platform, Docker, Heroku y CI/CD.
 - Sistemas académicos y experimentales con IA, datos, cloud, optimización y simulación.
 - Videojuegos, software interactivo y proyectos visuales como parte de mi formación en Ingeniería de Sistemas.
 - Herramientas que reducen trabajo manual, organizan información y mejoran procesos reales de negocio.
@@ -235,7 +247,7 @@ Mi enfoque es entender primero el flujo de negocio y luego traducirlo en softwar
 
 ### Mentalidad de Ingeniería de Sistemas
 
-Mi formación va más allá del desarrollo web. He estudiado y practicado ingeniería de software, bases de datos, algoritmos, estructuras de datos, sistemas operativos, redes, arquitectura de computadoras, arquitectura de software, calidad de software, gestión de proyectos, análisis de datos, optimización, simulación, machine learning, computación gráfica, desarrollo móvil y desarrollo de videojuegos.
+Mi formación va más allá del desarrollo web. He estudiado y practicado ingeniería de software, bases de datos, algoritmos, estructuras de datos, sistemas operativos, redes, arquitectura de computadoras, arquitectura de software, calidad de software, gestión de proyectos, análisis de datos, optimización, simulación, machine learning, computación gráfica, desarrollo móvil, cloud computing y desarrollo de videojuegos.
 
 Esto me permite abordar los problemas como sistemas completos, no solo como pantallas, endpoints o tecnologías aisladas.
 
@@ -248,6 +260,10 @@ Estos sistemas apoyan a usuarios que necesitan información estructurada, valida
 ### Automatización y herramientas internas
 
 Uso Python y otras herramientas para automatizar tareas repetitivas, conectar APIs y bases de datos, procesar archivos, validar información, construir utilidades desktop, ejecutar diagnósticos, generar logs y empaquetar herramientas ejecutables.
+
+### Cloud y despliegue
+
+Tengo fundamentos en cloud computing con **AWS, Azure y Google Cloud Platform**, además de interés práctico en despliegues, contenedores, CI/CD, observabilidad, infraestructura y entrega escalable de software.
 
 ### Aprendizaje continuo
 
@@ -266,6 +282,7 @@ Mi formación en Ingeniería de Sistemas incluye:
 - Sistemas operativos, arquitectura de computadoras y redes.
 - Interacción humano-computador, computación visual y fundamentos de UI/UX.
 - Desarrollo móvil, sistemas distribuidos y aplicaciones web.
+- Fundamentos de cloud computing con AWS, Azure y Google Cloud Platform.
 - Optimización, simulación y pensamiento orientado a toma de decisiones.
 - Machine learning, analítica de datos y sistemas asistidos por IA.
 - Seguridad, gestión de proyectos, emprendimiento e investigación.
@@ -284,9 +301,11 @@ Mi formación en Ingeniería de Sistemas incluye:
 
 **Bases de datos:** PostgreSQL, MySQL, SQL Server, MongoDB, SQLite, SQL, NoSQL, modelado de datos, optimización de consultas, reporting y análisis operativo.
 
+**Cloud y DevOps:** AWS, Azure, Google Cloud Platform, Docker, Docker Compose, Heroku, GitHub Actions, CI/CD, despliegues y fundamentos cloud.
+
 **Python y automatización:** Python, OCR, CustomTkinter, Requests, PyInstaller, scripts, automatización de procesos, diagnósticos y herramientas internas.
 
-**Herramientas y calidad:** Git, GitHub, GitLab, Docker, Docker Compose, Postman, Sonar, Grafana, GitHub Actions, CI/CD, Heroku, Ruff, Mypy.
+**Herramientas y calidad:** Git, GitHub, GitLab, Postman, Sonar, Grafana, Ruff, Mypy.
 
 ---
 
@@ -312,6 +331,9 @@ Mi formación en Ingeniería de Sistemas incluye:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="38" alt="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="38" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="38" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="38" alt="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="GitHub" />
@@ -331,7 +353,7 @@ Mi formación en Ingeniería de Sistemas incluye:
 - Desarrollo de plataformas full stack con backend API, panel web, base de datos, autenticación, carga de archivos, notificaciones, reporting y clientes móviles.
 - Refactorización de módulos frontend/backend para reducir duplicidad, mejorar mantenibilidad y cumplir estándares de calidad.
 - Resolución de incidencias críticas y requerimientos urgentes en módulos frontend/backend.
-- Diseño e implementación de software en web, backend, desktop, móvil, automatización y proyectos académicos/experimentales.
+- Diseño e implementación de software en web, backend, desktop, móvil, automatización, fundamentos cloud y proyectos académicos/experimentales.
 
 ---
 
@@ -350,6 +372,7 @@ Actualmente estoy organizando repositorios públicos, demos y case studies para 
 - Reporting, SQL avanzado y optimización de consultas.
 - Automatización de procesos con Python.
 - Testing, calidad de código y observabilidad.
+- Fundamentos cloud con AWS, Azure y Google Cloud Platform.
 - Soluciones orientadas a datos, IA y sistemas empresariales.
 - Diseño de software, arquitectura y fundamentos de Ingeniería de Sistemas.
 
@@ -361,6 +384,3 @@ Actualmente estoy organizando repositorios públicos, demos y case studies para 
 - Email: systems.kennedy@gmail.com
 
 <p align="right"><a href="#top">Volver arriba</a></p>
-EOF
-
-git diff -- README.md
